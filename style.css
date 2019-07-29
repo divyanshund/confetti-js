@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  .wrapper {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  [class|="confeti"] {
+    position: absolute;
+  }
+  
+  .red {
+    background-color: rgb(224, 17, 2);
+  }
+  
+  .green {
+    background-color: rgb(33, 197, 0);
+  }
+  
+  .yellow {
+    background-color: rgb(209, 255, 2);
+  }
+  
